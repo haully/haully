@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haully&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=haully&theme=tokyonight&langs_count=10)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=haully&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/haully)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=haully&theme=tokyonight)](https://github.com/haully)
